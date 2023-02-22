@@ -1,4 +1,4 @@
-# Hi there, I'm Alejandro Ulate 👋 
+# Hi there, I'm <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/" Alejandro> </a> 👋 
 An electrical engineering student at the University of Costa Rica
 
 ## Connect with me
