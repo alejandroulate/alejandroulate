@@ -1,4 +1,4 @@
-## Hi there, I'm Alejandro Ulate 👋 
+# Hi there, I'm Alejandro Ulate 👋 
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"><img align="left" src="https://raw.githubusercontent.com/alejandroulate/alejandroulate/main/images/linkedin.png" alt="icon\LinkedIn" width="21px" /></a>
@@ -7,7 +7,7 @@
 
 ### Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-👷🏾 About me:
+# 👷🏾 About me:
 
 ### 👀 I’m interested in  
 
