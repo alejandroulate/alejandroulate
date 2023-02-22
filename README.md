@@ -9,15 +9,18 @@
 
 👷🏾 About me:
 
-- Hi, I’m @alejandroulate  
-- 👀 I’m interested in data analysis  
--
-#### 🌱 I’m currently learning
+### 👀 I’m interested in data analysis  
+
+- Electronics
+- Data Analysis 
+
+### 🌱 I’m currently learning
 
 - Google Data Analytics Certification
 - Python Programming For Everybody Specialization
 
-- 📫 How to reach me: alejandro.ulate@ucr.ac.cr
+### 📫 How to reach me
+- alejandro.ulate@ucr.ac.cr
 
 📈 My Github Stats:
 
