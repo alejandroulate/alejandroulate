@@ -1,5 +1,5 @@
 # Hi there, I'm <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"> Alejandro </a> 👋 
-An electrical engineering student at the University of Costa Rica
+An electrical engineering student at the University of Costa Rica. I love the challenge of turning complex problems into more manageable ones in order to search for the simple solution. One must learn something new each day.
 
 ## 🤝 Connect with me
 <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"><img align="left" src="https://raw.githubusercontent.com/alejandroulate/alejandroulate/main/images/linkedin.png" alt="icon\LinkedIn" width="21px" /></a>
