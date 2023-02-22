@@ -12,7 +12,7 @@
 - Hi, I’m @alejandroulate  
 - 👀 I’m interested in data analysis  
 -
-## 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 
 - Google Data Analytics Certification
 - Python Programming For Everybody Specialization
