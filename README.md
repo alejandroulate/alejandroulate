@@ -1,6 +1,6 @@
 ## Hi there, I'm Alejandro Ulate 👋 
 
-## Contact me
+## Connect with me
 <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"><img align="left" src="https://raw.githubusercontent.com/alejandroulate/alejandroulate/main/images/linkedin.png" alt="icon\LinkedIn" width="21px" /></a>
 
 </br>
@@ -11,7 +11,12 @@
 
 - Hi, I’m @alejandroulate  
 - 👀 I’m interested in data analysis  
-- 🌱 I’m currently learning electronics  
+-
+##🌱 I’m currently learning
+
+- Google Data Analytics Certification
+- Python Programming For Everybody Specialization
+
 - 📫 How to reach me: alejandro.ulate@ucr.ac.cr
 
 📈 My Github Stats:
