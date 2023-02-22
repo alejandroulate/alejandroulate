@@ -8,7 +8,7 @@ An electrical engineering student at the University of Costa Rica
 
 ### Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-## 👷🏾 About me
+## 👷🏾 About 
 
 ### 👀 I’m interested in  
 
