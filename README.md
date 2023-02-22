@@ -1,7 +1,7 @@
 ## Hi there, I'm Alejandro Ulate 👋 
 
 ## Contact me
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/alejandroulate/alejandroulate/main/images/linkedin.png" alt="icon\LinkedIn" width="21px" /></a>
+<a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"><img align="left" src="https://raw.githubusercontent.com/alejandroulate/alejandroulate/main/images/linkedin.png" alt="icon\LinkedIn" width="21px" /></a>
 
 </br>
 
