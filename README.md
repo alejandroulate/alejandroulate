@@ -8,7 +8,9 @@ Coding can become hard at times, but as the saying goes: "A smooth sea never mad
 
 </br>
 
-### Glad to see you here!  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=alejandroulate)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 ## 👷🏾 About 
 
