@@ -1,8 +1,6 @@
 # Hi there, I'm <a href="https://www.linkedin.com/in/alejandro-ulate-arce-602a19249/"> Alejandro </a> 👋 
 An electrical engineering student at the University of Costa Rica. I love the challenge of turning complex problems into more manageable ones in order to search for the simplest solution. 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
-
 Coding can become hard at times, but as the saying goes: "A smooth sea never made a skillfull sailor". Then I guess that makes this my sailing journal ⚓.
 
 ## 🤝 Connect with me
