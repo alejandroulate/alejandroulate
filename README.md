@@ -8,7 +8,7 @@ Coding can become hard at times, but as the saying goes: "A smooth sea never mad
 
 </br>
 
-### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=alejandroulate&label= Viewer)
+### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=alejandroulate&label=Viewer)
 
 ## 👷🏾 About 
 
